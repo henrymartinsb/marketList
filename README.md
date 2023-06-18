@@ -73,7 +73,7 @@ I'm also open to new opportunities and collaborations 🌟
 Did you like? Would you like me to bring more? <br> This is how I know if I'm on the right track and delivering interesting solutions for you.
 <br>
 <br>
-[![Buy me a coffee](/public/bmc-button.svg)](https://bmc.link/henrymartinsb)
+[![Buy me a coffee](/src/assets/bmc-button.svg)](https://bmc.link/henrymartinsb)
 
 <br>
 <br>
