@@ -54,7 +54,7 @@ Start the server
 <br>
 
 ## 🚀 About Me
-Hey! I'm Henry, a 24y self-taught Software Developer building kickass products. 
+Hey! I'm Henry, a 24y self-taught Mobile Engineer building kickass products. 
 
 I'm also open to new opportunities and collaborations 🌟
 
