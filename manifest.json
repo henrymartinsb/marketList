@@ -7,12 +7,12 @@
   "background_color": "#ffffff",
   "icons": [
     {
-      "src": "homersimpson512.svg",
+      "src": "homersimpson512.png",
       "sizes": "192x192",
-      "type": "image/svg"
+      "type": "image/png"
     },
     {
-      "src": "homersimpson512.svg",
+      "src": "homersimpson512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
